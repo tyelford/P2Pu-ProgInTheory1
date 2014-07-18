@@ -1,0 +1,19 @@
+/*
+* Getting started - Source P2PU: https://p2pu.org/en/courses/1079/content/2291/
+* Author: Tyson Elford
+* Date of completion: May 5, 2014
+*/
+
+1: Open the command line, and execute the command "python -V" and paste the output in the comments bellow, along with the Operating system you are using (Windows, Mac, Linux).
+
+Windows
+python -V
+2.7.7
+
+2: On the command line, type echo %cd% (if you are running Windows), or pwd (if you are running Linux). What did the command show you, and why is this useful?
+
+echo %cd% shows my current working directory
+
+3: On the command line, run the command "python -h". Find one option in the output list of "Options and arguments" which you find interesting. Google that option and explain, briefly, what that option does, and how to use it.
+
+the -t option shows if you have inconsistent tabs throughout your file ie: tab stop at 4 spaces and tab stops at 2 spaces
